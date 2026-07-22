@@ -1,0 +1,9 @@
+[
+  {
+    "uid": "urn:uuid:shemm-test-0001",
+    "updateDate": "2026-07-22T20:00:00.0Z",
+    "titleText": "SHEMM Coach",
+    "mainText": "This is a test brief. If you can hear this, the feed is working.",
+    "redirectionUrl": "https://github.com"
+  }
+]
