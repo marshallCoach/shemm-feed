@@ -5,10 +5,10 @@
     <language>en-US</language>
     <ttl>30</ttl>
     <item>
-      <guid>urn:uuid:shemm-test-0001</guid>
+      <guid>urn:uuid:shemm-20260723114524</guid>
       <title>SHEMM Coach</title>
-      <description>This is a test brief. If you can hear this, the feed is working.</description>
-      <pubDate>Wed, 22 Jul 2026 20:00:00 GMT</pubDate>
+      <description>Today, let's talk medication. Your day's already stacked with check-ins and routines — easy for a med check to get buried in the noise. You've got a slot at ten to check for additions. Treat that as the trigger: confirm what you're actually taking matches what's prescribed, right then, not later. Do it when the slot hits.</description>
+      <pubDate>Thu, 23 Jul 2026 15:45:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
