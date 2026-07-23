@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SHEMM Coach</title>
+    <language>en-US</language>
+    <ttl>30</ttl>
+    <item>
+      <guid>urn:uuid:shemm-test-0001</guid>
+      <title>SHEMM Coach</title>
+      <description>This is a test brief. If you can hear this, the feed is working.</description>
+      <pubDate>Wed, 22 Jul 2026 20:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
