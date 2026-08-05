@@ -5,10 +5,10 @@
     <language>en-US</language>
     <ttl>30</ttl>
     <item>
-      <guid>urn:uuid:shemm-20260804234145</guid>
+      <guid>urn:uuid:shemm-20260805082356</guid>
       <title>SHEMM Coach</title>
-      <description>You've hit your weekly limit · resets Aug 6, 12pm (UTC)</description>
-      <pubDate>Wed, 05 Aug 2026 03:41:45 GMT</pubDate>
+      <description>You've hit your weekly limit · resets 12pm (UTC)</description>
+      <pubDate>Wed, 05 Aug 2026 12:23:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
