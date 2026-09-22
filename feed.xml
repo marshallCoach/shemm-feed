@@ -5,10 +5,10 @@
     <language>en-US</language>
     <ttl>30</ttl>
     <item>
-      <guid>urn:uuid:shemm-20260921123246</guid>
+      <guid>urn:uuid:shemm-20260922011119</guid>
       <title>SHEMM Coach</title>
-      <description>Today, let's talk Medication. There's a refill check-in on the schedule, plus a checkpoint later to review progress on your tracking tools. Medication only works if the system around it works — refills on time, doses tracked, nothing left to memory. Don't let a busy day push the small logistics to tomorrow. Action: when that refill call comes up, actually make it, don't reschedule it.</description>
-      <pubDate>Mon, 21 Sep 2026 16:32:46 GMT</pubDate>
+      <description>You've hit your org's monthly spend limit · ask your admin to raise it at claude.ai/admin-settings/usage · your weekly limit resets Sep 24, 12pm (UTC)</description>
+      <pubDate>Tue, 22 Sep 2026 05:11:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
