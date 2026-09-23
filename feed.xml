@@ -5,10 +5,10 @@
     <language>en-US</language>
     <ttl>30</ttl>
     <item>
-      <guid>urn:uuid:shemm-20260923005552</guid>
+      <guid>urn:uuid:shemm-20260923110917</guid>
       <title>SHEMM Coach</title>
-      <description>You've hit your org's monthly spend limit · ask your admin to raise it at claude.ai/admin-settings/usage · your weekly limit resets Sep 24, 12pm (UTC)</description>
-      <pubDate>Wed, 23 Sep 2026 04:55:52 GMT</pubDate>
+      <description>You've hit your org's monthly spend limit · ask your admin to raise it at claude.ai/admin-settings/usage · your weekly limit resets 12pm (UTC)</description>
+      <pubDate>Wed, 23 Sep 2026 15:09:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
